@@ -1,0 +1,9 @@
+// hello.cpp
+// Xiaoran Sui
+// 6922694
+# include <iostream>
+using namespace std;
+int main() {
+	cout<< "this will be printed out to the terminal"<<endl;
+	return 0;
+}
